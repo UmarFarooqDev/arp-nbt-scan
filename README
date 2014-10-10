@@ -1,1 +1,3 @@
-use nbtscan for arp list of IPs on Mac OS X and Linux
+This is a simple script that enumerates a user's IP Address, Subnet and
+Network Mask and then performs an ARP-SCAN on the Address range. Once complete,
+it then runs NBTSCAN on the IP that were found.
